@@ -1,0 +1,148 @@
+{
+  "generated_at": "2026-09-23T15:00:00Z",
+  "segments": [
+    {
+      "id": "global-tax",
+      "number": "01",
+      "name": "Global tax",
+      "subtitle": "Minimum tax, treaties and international tax architecture",
+      "question": "Which top-up taxes and cross-border rules remain?",
+      "topics": ["P2", "US", "CFC", "TREATY"]
+    },
+    {
+      "id": "profit-presence",
+      "number": "02",
+      "name": "Profit & presence",
+      "subtitle": "Profit allocation, business models and taxable presence",
+      "question": "Who earns the profit, and where is it taxable?",
+      "topics": ["TP", "PE", "RES", "DST"]
+    },
+    {
+      "id": "cash-flow",
+      "number": "03",
+      "name": "Cash flow",
+      "subtitle": "Taxes that affect payments, financing and invoicing",
+      "question": "How much cash reaches the recipient?",
+      "topics": ["WHT", "FIN", "VAT", "CES"]
+    },
+    {
+      "id": "transactions-transparency",
+      "number": "04",
+      "name": "Transactions & transparency",
+      "subtitle": "Deals, reporting, audit and controversy",
+      "question": "What could change the deal economics or reporting burden?",
+      "topics": ["DEAL", "DAC", "DISC", "MAP"]
+    }
+  ],
+  "topics": [
+    {"code":"P2","name":"Pillar Two","description":"Global minimum tax","status":"RISING","status_label":"Rising","score":88,"trend":[40,39,38,36,35,34,33,31]},
+    {"code":"US","name":"US tax reform","description":"International tax changes","status":"WATCH","status_label":"Watch","score":63,"trend":[45,48,46,51,50,53,51,54]},
+    {"code":"CFC","name":"Controlled foreign","description":"Company rules","status":"STEADY","status_label":"Steady","score":45,"trend":[43,43,44,44,44,45,45,45]},
+    {"code":"TREATY","name":"Tax treaties","description":"Treaties & STTR","status":"RISING","status_label":"Rising","score":68,"trend":[33,34,35,38,41,44,48,52]},
+    {"code":"TP","name":"Transfer pricing","description":"Intercompany pricing","status":"RISING","status_label":"Rising","score":82,"trend":[28,29,29,32,37,52,62,70]},
+    {"code":"PE","name":"Permanent establishment","description":"Taxable presence","status":"WATCH","status_label":"Watch","score":59,"trend":[41,40,42,43,42,44,45,46]},
+    {"code":"RES","name":"Corporate residence","description":"Residence and substance","status":"STEADY","status_label":"Steady","score":42,"trend":[38,38,39,39,39,40,40,40]},
+    {"code":"DST","name":"Digital taxation","description":"Digital services & nexus","status":"WATCH","status_label":"Watch","score":61,"trend":[42,44,43,44,47,46,49,48]},
+    {"code":"WHT","name":"Withholding taxes","description":"Cross-border payments","status":"RISING","status_label":"Rising","score":73,"trend":[31,32,32,35,36,39,41,45]},
+    {"code":"FIN","name":"Interest deductibility","description":"Cost of financing","status":"WATCH","status_label":"Watch","score":55,"trend":[44,45,44,44,42,43,45,44]},
+    {"code":"VAT","name":"Digital VAT","description":"Invoicing & reporting","status":"RISING","status_label":"Rising","score":79,"trend":[29,30,31,33,35,39,43,49]},
+    {"code":"CES","name":"CESOP","description":"Payment reporting","status":"STEADY","status_label":"Steady","score":48,"trend":[39,39,40,40,40,40,41,41]},
+    {"code":"DEAL","name":"Mergers & acquisitions","description":"Transactions & restructurings","status":"OPPORTUNITY","status_label":"Opportunity","score":70,"trend":[30,31,31,33,35,36,40,42]},
+    {"code":"DAC","name":"DAC6 / DAC7 / DAC8 / DAC9","description":"EU tax reporting","status":"RISING","status_label":"Rising","score":84,"trend":[30,32,34,38,45,51,58,63]},
+    {"code":"DISC","name":"Tax disclosure","description":"Reporting & transparency","status":"STEADY","status_label":"Steady","score":50,"trend":[41,41,41,42,42,42,43,43]},
+    {"code":"MAP","name":"Audits & disputes","description":"International tax certainty","status":"WATCH","status_label":"Watch","score":62,"trend":[46,44,43,45,44,46,45,44]}
+  ],
+  "updates": [
+    {
+      "id":"oecd-p2-2026-09-11",
+      "title":"Global Minimum Tax package updates GIR and peer-review framework",
+      "source":"OECD",
+      "url":"https://www.oecd.org/en/about/news/announcements/2026/09/global-minimum-tax-inclusive-framework-releases-a-package-to-strengthen-consistency-and-certainty-for-mnes-and-jurisdictions.html",
+      "published":"2026-09-11",
+      "jurisdiction":"Global",
+      "topic":"P2",
+      "importance":95,
+      "summary":"The Inclusive Framework released updated Global Minimum Tax implementation materials, including an updated GloBE Information Return, a full legislative review framework and further administrative guidance.",
+      "business_impact":"In-scope groups should assess whether reporting data models, GIR mappings and local filing processes need to change for fiscal years beginning on or after 31 December 2025.",
+      "client_question":"Is the current Pillar Two data model ready for the revised GIR and jurisdictional review process?"
+    },
+    {
+      "id":"oecd-sttr-2026-09-15",
+      "title":"Albania ratification brings the STTR convention into force from 2027",
+      "source":"OECD",
+      "url":"https://www.oecd.org/en/topics/subject-to-tax-rule.html",
+      "published":"2026-09-15",
+      "jurisdiction":"Global",
+      "topic":"TREATY",
+      "importance":78,
+      "summary":"The OECD reported that Albania's ratification brings the multilateral Subject to Tax Rule convention into force from 1 January 2027.",
+      "business_impact":"Groups with covered intragroup payments to developing jurisdictions should monitor treaty changes and model possible source-country tax exposure.",
+      "client_question":"Which intragroup payments could become subject to additional source taxation under the STTR?"
+    },
+    {
+      "id":"ec-customs-2026-09-21",
+      "title":"EU Customs Reform enters into force",
+      "source":"European Commission",
+      "url":"https://taxation-customs.ec.europa.eu/customs/eu-customs-reform_en",
+      "published":"2026-09-21",
+      "jurisdiction":"European Union",
+      "topic":"DEAL",
+      "importance":91,
+      "summary":"The European Commission states that the new EU Customs Reform has entered into force and will be implemented gradually, including a more data-driven customs architecture and changes for e-commerce.",
+      "business_impact":"Importers, e-commerce platforms and customs teams should map process, data and systems changes against the implementation timeline.",
+      "client_question":"Which customs data and operating-model changes need to be prioritised before the next implementation milestones?"
+    },
+    {
+      "id":"ec-vat-circular-2026-09-10",
+      "title":"Commission consults on VAT rules for the circular economy",
+      "source":"European Commission",
+      "url":"https://taxation-customs.ec.europa.eu/news/european-commission-launches-public-consultation-vat-and-circular-economy-2026-09-10_en",
+      "published":"2026-09-10",
+      "jurisdiction":"European Union",
+      "topic":"VAT",
+      "importance":76,
+      "summary":"The Commission launched a consultation on aligning VAT rules with circular business models, including second-hand goods, destruction of viable goods and passenger-car input VAT deduction.",
+      "business_impact":"Retail, mobility and circular-economy businesses may have an opportunity to influence future VAT design and should assess where current rules create friction.",
+      "client_question":"Which VAT rules currently constrain circular or reuse-based business models?"
+    },
+    {
+      "id":"hmrc-tss-2026-09-22",
+      "title":"HMRC urges Trader Support Service users to prepare for platform migration",
+      "source":"HMRC",
+      "url":"https://www.gov.uk/government/news/trader-support-service-users-urged-to-prepare-for-new-platform",
+      "published":"2026-09-22",
+      "jurisdiction":"United Kingdom",
+      "topic":"DISC",
+      "importance":72,
+      "summary":"HMRC announced that all goods movements from 20 October must be submitted through the new Trader Support Service platform for movements between Great Britain and Northern Ireland.",
+      "business_impact":"Affected traders should complete pre-enrolment, permissions and testing before the cutover to avoid disruption in customs declarations.",
+      "client_question":"Are all GB–NI traders, agents and permissions ready for the new TSS cutover?"
+    },
+    {
+      "id":"hmrc-cbam-2026-09-09",
+      "title":"UK CBAM guidance updated ahead of 1 January 2027 start",
+      "source":"HMRC",
+      "url":"https://www.gov.uk/government/publications/introduction-of-carbon-border-adjustment-mechanism",
+      "published":"2026-09-09",
+      "jurisdiction":"United Kingdom",
+      "topic":"DEAL",
+      "importance":89,
+      "summary":"HMRC updated its Carbon Border Adjustment Mechanism material. UK CBAM is scheduled to apply from 1 January 2027 to specified carbon-intensive imports.",
+      "business_impact":"Importers should identify in-scope goods, test registration thresholds, establish emissions data flows and assess landed-cost impacts.",
+      "client_question":"Which imports cross the UK CBAM threshold and where will emissions data come from?"
+    },
+    {
+      "id":"oecd-tax-reforms-2026-09-08",
+      "title":"OECD Tax Policy Reforms 2026 compares reforms across 92 jurisdictions",
+      "source":"OECD",
+      "url":"https://www.oecd.org/en/about/news/press-releases/2026/09/governments-reforming-tax-systems-to-boost-growth-but-revenue-pressures-continue-to-mount.html",
+      "published":"2026-09-08",
+      "jurisdiction":"Global",
+      "topic":"US",
+      "importance":68,
+      "summary":"The OECD published Tax Policy Reforms 2026, comparing tax reforms introduced or announced in 2025 across 92 jurisdictions.",
+      "business_impact":"The report provides a cross-country baseline for identifying jurisdictions where corporate, consumption or investment tax changes may affect group planning.",
+      "client_question":"Which jurisdictions in the group footprint are moving materially away from the current tax baseline?"
+    }
+  ]
+}

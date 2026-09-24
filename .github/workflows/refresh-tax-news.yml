@@ -1,0 +1,39 @@
+name: Refresh tax news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install collector dependencies
+        run: pip install httpx beautifulsoup4 feedparser
+
+      - name: Refresh official-source items
+        run: python scripts/refresh_news.py
+
+      - name: Commit updated data if changed
+        run: |
+          if git diff --quiet -- frontend/data/market.json; then
+            echo "No new market data."
+            exit 0
+          fi
+          git config user.name "itax-market-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add frontend/data/market.json
+          git commit -m "chore: refresh tax market data"
+          git push

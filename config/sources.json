@@ -1,0 +1,33 @@
+[
+  {
+    "name": "HMRC news",
+    "jurisdiction": "United Kingdom",
+    "type": "rss",
+    "url": "https://www.gov.uk/search/news-and-communications.atom?organisations%5B%5D=hm-revenue-customs&parent=hm-revenue-customs",
+    "enabled": true
+  },
+  {
+    "name": "European Commission Taxation and Customs",
+    "jurisdiction": "European Union",
+    "type": "html_links",
+    "url": "https://taxation-customs.ec.europa.eu/index_en",
+    "link_contains": "/news/",
+    "enabled": true
+  },
+  {
+    "name": "OECD international tax",
+    "jurisdiction": "Global",
+    "type": "html_links",
+    "url": "https://www.oecd.org/en/topics/cross-border-and-international-tax.html",
+    "link_contains": "/about/news/",
+    "enabled": true
+  },
+  {
+    "name": "IRS newsroom",
+    "jurisdiction": "United States",
+    "type": "html_links",
+    "url": "https://www.irs.gov/newsroom",
+    "link_contains": "/newsroom/",
+    "enabled": true
+  }
+]

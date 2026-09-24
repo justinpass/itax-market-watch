@@ -1,0 +1,18 @@
+{
+  "P2": ["pillar two", "pillar 2", "global minimum tax", "globe", "qd mtt", "qdmtt", "utpr", "income inclusion rule"],
+  "TP": ["transfer pricing", "arm's length", "arms length", "amount b", "apa", "intercompany pricing"],
+  "PE": ["permanent establishment", "taxable presence", "fixed place", "dependent agent"],
+  "RES": ["corporate residence", "place of effective management", "substance"],
+  "WHT": ["withholding tax", "withholding taxes", "dividend withholding", "interest withholding", "royalty withholding"],
+  "FIN": ["interest deduction", "interest deductibility", "thin capitalisation", "thin capitalization", "financing"],
+  "VAT": ["vat", "value added tax", "e-invoicing", "digital reporting requirements", "vida"],
+  "CES": ["cesop", "payment service provider", "cross-border payment reporting"],
+  "DEAL": ["merger", "acquisition", "restructuring", "customs", "cbam", "carbon border adjustment"],
+  "DAC": ["dac6", "dac7", "dac8", "dac9", "directive on administrative cooperation", "platform reporting", "crypto reporting"],
+  "DISC": ["tax disclosure", "tax reporting", "transparency", "reporting obligation", "trader support service"],
+  "MAP": ["mutual agreement procedure", "tax dispute", "tax audit", "controversy", "memap"],
+  "TREATY": ["tax treaty", "subject to tax rule", "sttr", "multilateral instrument"],
+  "CFC": ["controlled foreign company", "controlled foreign corporation", "cfc"],
+  "DST": ["digital services tax", "digital taxation", "amount a", "nexus"],
+  "US": ["united states tax", "us tax", "irs", "treasury", "foreign tax credit"]
+}
