@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:46:53Z",
+  "generated_at": "2026-09-25T17:07:39Z",
   "segments": [
     {
       "id": "global-tax",
@@ -416,6 +416,20 @@
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
+      "id": "787d3b52058cf0",
+      "title": "Statement on IRS operations limited during the lapse in appropriations; regular tax deadlines remain",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/statement-on-irs-operations-limited-during-the-lapse-in-appropriations-regular-tax-deadlines-remain",
+      "published": "2026-09-25",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 78,
+      "summary": "Oct. 21, 2025 — Due to the current lapse in appropriations, IRS operations are limited. However, the underlying tax law remains in effect, and all taxpayers must continue to meet their tax obligations as normal.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
       "id": "e9b954c1205282",
       "title": "Guidance on low-value imports",
       "source": "European Commission Taxation and Customs",
@@ -580,6 +594,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-101, Aug. 26, 2026 — The Internal Revenue Service today encouraged taxpayers who requested an extension to file their 2025 federal tax return as soon as possible, rather than waiting until the Oct. 15 deadline.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "fe9252f73f8238",
+      "title": "IRS launches new mobile app, expanding digital services for taxpayers",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-launches-new-mobile-app-expanding-digital-services-for-taxpayers",
+      "published": "2026-09-25",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-114, Sept. 25, 2026 — The IRS today announced the launch of the new IRS mobile app, replacing IRS2Go and expanding the agency’s digital services to give taxpayers more ways to securely access IRS tools and account services from their mobile devices.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
