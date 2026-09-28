@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:48:03Z",
+  "generated_at": "2026-09-28T23:14:20Z",
   "segments": [
     {
       "id": "global-tax",
@@ -428,6 +428,20 @@
       "summary": "IR-2026-115, Sept. 28, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for taxpayers who sell or exchange qualifying farmland to qualified farmers and elect to pay the tax on the gain in four equal annual installments.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "08609eed3efdb2",
+      "title": "New resources available for CBAM verifiers",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/new-resources-available-cbam-verifiers-2026-09-28_en",
+      "published": "2026-09-28",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 78,
+      "summary": "New resources are available to help CBAM verifiers navigate verification, accreditation and access to the CBAM Registry.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
       "id": "e9b954c1205282",
