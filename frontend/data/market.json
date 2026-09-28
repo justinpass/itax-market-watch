@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:19:01Z",
+  "generated_at": "2026-09-28T13:48:03Z",
   "segments": [
     {
       "id": "global-tax",
@@ -412,6 +412,20 @@
       "topic": "US",
       "importance": 78,
       "summary": "IR-2026-103, Sep. 3, 2026 – The Department of the Treasury and the Internal Revenue Service (IRS) have issued proposed regulations to end federal tax-exempt status for private schools that engage in racial discrimination, delivering on President Trump's Executive Orders ending discrimination and restoring merit-based opportunity.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "9157c9b3d0262c",
+      "title": "Treasury, IRS issue proposed regulations on installment payments for tax on certain farmland sales",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-installment-payments-for-tax-on-certain-farmland-sales",
+      "published": "2026-09-28",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 78,
+      "summary": "IR-2026-115, Sept. 28, 2026 — The Department of the Treasury and the Internal Revenue Service today issued proposed regulations for taxpayers who sell or exchange qualifying farmland to qualified farmers and elect to pay the tax on the gain in four equal annual installments.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
