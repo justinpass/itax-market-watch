@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:29:42Z",
+  "generated_at": "2026-09-30T22:12:21Z",
   "segments": [
     {
       "id": "global-tax",
@@ -360,6 +360,20 @@
       "client_question": "Which transaction flows, invoices or reporting systems need to change?"
     },
     {
+      "id": "136c231bd20ebe",
+      "title": "Webinar follow up: “CBAM: from policy to practice - emissions calculation, declarations, and certificates”",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/webinar-follow-cbam-policy-practice-emissions-calculation-declarations-and-certificates-2026-09-30_en",
+      "published": "2026-09-30",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 82,
+      "summary": "The European Commission held the fourth in a series of webinars on the implementation of the EU’s Carbon Border Adjustment Mechanism (CBAM).",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
+    },
+    {
       "id": "13bcb71dc2459a",
       "title": "Maastricht university receives EU Customs Certificate of Recognition",
       "source": "European Commission Taxation and Customs",
@@ -598,6 +612,20 @@
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
+      "id": "b403343139f050",
+      "title": "IRS announces new relief for eligible taxpayers affected by ongoing events in Israel: due dates for eligible returns and payments may be postponed to Sept. 30, 2027; additional relief may be available",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-announces-new-relief-for-eligible-taxpayers-affected-by-ongoing-events-in-israel-due-dates-for-eligible-returns-and-payments-may-be-postponed-to-sept-30-2027-additional-relief-may-be-available",
+      "published": "2026-09-30",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-116, Sept. 30, 2026 — The IRS announced today that due to the ongoing conflict in Israel, the agency is providing additional tax relief to affected individuals and businesses, postponing until Sept. 30, 2027, a wide range of deadlines for filing federal returns, making tax payments and performing other time-sensitive tax-related actions.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
       "id": "906fd62af4f890",
       "title": "Topics in the news",
       "source": "IRS newsroom",
@@ -692,6 +720,20 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "IR-2026-106, Sept.4, 2026 — The Internal Revenue Service and the Security Summit today urged tax professionals and taxpayers to strengthen defenses against tax-related identity theft.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "01d931c894f4ec",
+      "title": "Edition 7: Making Tax Digital for Income Tax — software developer newsletter",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/publications/edition-7-making-tax-digital-for-income-tax-software-developer-newsletter",
+      "published": "2026-09-30",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
