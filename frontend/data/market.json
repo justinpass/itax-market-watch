@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T05:28:29Z",
+  "generated_at": "2026-09-30T12:29:42Z",
   "segments": [
     {
       "id": "global-tax",
@@ -426,6 +426,20 @@
       "topic": "DEAL",
       "importance": 78,
       "summary": "New resources are available to help CBAM verifiers navigate verification, accreditation and access to the CBAM Registry.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
+    },
+    {
+      "id": "65deec68cfdbd8",
+      "title": "CBAM De Minimis Threshold Assessment",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/cbam-de-minimis-threshold-assessment-2026-09-30_en",
+      "published": "2026-09-30",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 78,
+      "summary": "The European Commission has assessed whether the current CBAM de minimis single mass-based threshold applies to no more than 1% of the emissions.",
       "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
       "client_question": "What could change the transaction economics or implementation plan?"
     },
