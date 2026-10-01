@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:07:50Z",
+  "generated_at": "2026-10-01T22:38:49Z",
   "segments": [
     {
       "id": "global-tax",
@@ -430,6 +430,20 @@
       "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
+      "id": "736468bf5eb741",
+      "title": "The Trump administration advances the establishment of America’s first nationwide school choice program",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/the-trump-administration-advances-the-establishment-of-americas-first-nationwide-school-choice-program",
+      "published": "2026-10-01",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 78,
+      "summary": "IR-2026-117, Oct. 1, 2026 — The Department of the Treasury and the IRS issued proposed regulations to implement the new Federal Scholarship Tax Credit under section 25F, commonly known as the Education Freedom Tax Credit, the first federal tax credit supporting private contributions for K-12 scholarships.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
       "id": "e9b954c1205282",
       "title": "Guidance on low-value imports",
       "source": "European Commission Taxation and Customs",
@@ -594,6 +608,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-116, Sept. 30, 2026 — The IRS announced today that due to the ongoing conflict in Israel, the agency is providing additional tax relief to affected individuals and businesses, postponing until Sept. 30, 2027, a wide range of deadlines for filing federal returns, making tax payments and performing other time-sensitive tax-related actions.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "d22b01e1aba0b8",
+      "title": "The IRS seeks community partners and volunteers to support free tax services",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/the-irs-seeks-community-partners-and-volunteers-to-support-free-tax-services",
+      "published": "2026-10-01",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-118, Oct. 1, 2026 — The Internal Revenue Service’s Volunteer Income Tax Assistance (VITA) and Tax Counseling for the Elderly (TCE) programs are seeking volunteers and community partners to help provide free tax preparation services during the upcoming filing season.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
