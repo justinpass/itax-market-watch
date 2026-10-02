@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:28:14Z",
+  "generated_at": "2026-10-02T22:10:53Z",
   "segments": [
     {
       "id": "global-tax",
@@ -608,6 +608,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-118, Oct. 1, 2026 — The Internal Revenue Service’s Volunteer Income Tax Assistance (VITA) and Tax Counseling for the Elderly (TCE) programs are seeking volunteers and community partners to help provide free tax preparation services during the upcoming filing season.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "fae86e69f1885c",
+      "title": "IRS reminder: Cybersecurity Awareness Month offers simple steps to protect tax data",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-reminder-cybersecurity-awareness-month-offers-simple-steps-to-protect-tax-data",
+      "published": "2026-10-02",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-119, Oct. 2, 2026 — The Internal Revenue Service today encouraged taxpayers to take simple steps to strengthen online security during Cybersecurity Awareness Month.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
