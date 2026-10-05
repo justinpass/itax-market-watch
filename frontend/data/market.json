@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T05:33:36Z",
+  "generated_at": "2026-10-05T14:30:53Z",
   "segments": [
     {
       "id": "global-tax",
@@ -678,6 +678,20 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "IR-2026-111, Sept. 16, 2026 — The Internal Revenue Service and the Security Summit partners today urged tax professionals to stay vigilant against identity theft.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "edcb10a38c684d",
+      "title": "Sole traders and landlords earning more than £30,000 urged to act now",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/news/sole-traders-and-landlords-earning-more-than-30000-urged-to-act-now",
+      "published": "2026-10-05",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "Sole traders and landlords earning over £30,000 urged to get ready for Making Tax Digital.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
