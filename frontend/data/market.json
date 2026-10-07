@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:16:28Z",
+  "generated_at": "2026-10-07T23:03:04Z",
   "segments": [
     {
       "id": "global-tax",
@@ -596,6 +596,34 @@
       "summary": "IR-2026-119, Oct. 2, 2026 — The Internal Revenue Service today encouraged taxpayers to take simple steps to strengthen online security during Cybersecurity Awareness Month.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "293633a644e8db",
+      "title": "IRS highlights partnership with UK tax authority’s new whistleblower program",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-highlights-partnership-with-uk-tax-authoritys-new-whistleblower-program",
+      "published": "2026-10-07",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-120, Oct. 7, 2026 — The Internal Revenue Service today highlighted its partnership with the United Kingdom’s whistleblower program, which drew upon the IRS Whistleblower Office’s expertise to quickly get established.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "661267701b9d4d",
+      "title": "Tax Administration EU Summit (TADEUS) took place in Dublin",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/tax-administration-eu-summit-tadeus-took-place-dublin-2026-10-07_en",
+      "published": "2026-10-07",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 70,
+      "summary": "On 6 and 7 October 2026, the Tax Administration EU Summit (TADEUS) took place in Dublin, hosted by the Revenue Irish Tax and Customs.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
       "id": "906fd62af4f890",
