@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:57:57Z",
+  "generated_at": "2026-10-08T13:23:14Z",
   "segments": [
     {
       "id": "global-tax",
@@ -692,6 +692,20 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "IR-2026-111, Sept. 16, 2026 — The Internal Revenue Service and the Security Summit partners today urged tax professionals to stay vigilant against identity theft.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "79959bfe7470b9",
+      "title": "Starting early is key to less stress around Self Assessment",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/news/starting-early-is-key-to-less-stress-around-self-assessment",
+      "published": "2026-10-08",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "Customers encouraged to start their Self Assessment tax return well ahead of the 31 January deadline.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
