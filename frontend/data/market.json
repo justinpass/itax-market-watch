@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:03:54Z",
+  "generated_at": "2026-10-09T13:11:28Z",
   "segments": [
     {
       "id": "global-tax",
@@ -416,6 +416,20 @@
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
+      "id": "1b48a4d3ba4606",
+      "title": "Commission proposes extending key anti-VAT fraud tools until June 2030",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/commission-proposes-extending-key-anti-vat-fraud-tools-until-june-2030-2026-10-09_en",
+      "published": "2026-10-09",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "VAT",
+      "importance": 78,
+      "summary": "A new Commission proposal adopted on 1 October 2026 aims to extend the optional reverse charge mechanism and the quick reaction mechanism against VAT fraud until 30 June 2030.",
+      "business_impact": "Map affected transaction flows, invoicing logic, reporting fields and implementation dates.",
+      "client_question": "Which transaction flows, invoices or reporting systems need to change?"
+    },
+    {
       "id": "e9b954c1205282",
       "title": "Guidance on low-value imports",
       "source": "European Commission Taxation and Customs",
@@ -610,6 +624,20 @@
       "summary": "IRS Commissioner discusses a range of tax administration issues.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "eceea95c1507ab",
+      "title": "The Council updates the EU list of non-cooperative tax jurisdictions as cooperation delivers further progress",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/council-updates-eu-list-non-cooperative-tax-jurisdictions-cooperation-delivers-further-progress-2026-10-09_en",
+      "published": "2026-10-09",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DISC",
+      "importance": 66,
+      "summary": "On 9 October, EU Finance Ministers agreed on the latest revision of the EU list of non-cooperative tax jurisdictions. The update reflects both progress made by jurisdictions through cooperation with the EU and remaining concerns in the areas of tax transparency and fair taxation.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
     },
     {
       "id": "ae4774dfe3fc7a",
