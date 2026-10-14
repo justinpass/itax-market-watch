@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:07:02Z",
+  "generated_at": "2026-10-14T21:38:08Z",
   "segments": [
     {
       "id": "global-tax",
@@ -403,7 +403,7 @@
     },
     {
       "id": "3ce210a8299ed4",
-      "title": "Treasury and IRS Move to Protect Health Care Benefits for Eligible Americans",
+      "title": "Treasury and IRS move to protect health care benefits for eligible Americans",
       "source": "IRS newsroom",
       "url": "https://www.irs.gov/newsroom/treasury-and-irs-move-to-protect-health-care-benefits-for-eligible-americans",
       "published": "2026-10-14",
@@ -411,7 +411,7 @@
       "jurisdiction": "United States",
       "topic": "US",
       "importance": 78,
-      "summary": "IR-2026-121, Oct.14, 2026 — The U.S. Department of the Treasury and the Internal Revenue Service issued proposed regulations to implement President Trump’s Working Families Tax Cuts reforms to the Premium Tax Credit (PTC), a refundable tax credit that helps eligible American taxpayers afford health insurance purchased through the Health Insurance Exchanges.",
+      "summary": "IR-2026-121, Oct. 14, 2026 — The U.S. Department of the Treasury and the Internal Revenue Service issued proposed regulations to implement President Trump’s Working Families Tax Cuts reforms to the Premium Tax Credit (PTC), a refundable tax credit that helps eligible American taxpayers afford health insurance purchased through the Health Insurance Exchanges.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
