@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T11:17:35Z",
+  "generated_at": "2026-10-16T16:34:55Z",
   "segments": [
     {
       "id": "global-tax",
@@ -552,6 +552,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-122, Oct. 14, 2026 — The Internal Revenue Service today announced that, in response to the President’s Oct. 5, 2026, Executive Order, Emergency Tax Relief on Diesel Fuel, it will not impose a penalty when dyed diesel fuel is sold for use or used on highways nationwide.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "a1568a194a8a5c",
+      "title": "IRS has begun issuing automatic refunds to individuals who claimed Adoption Tax Credit carryforward from prior years",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-has-begun-issuing-automatic-refunds-to-individuals-who-claimed-adoption-tax-credit-carryforward-from-prior-years",
+      "published": "2026-10-16",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-123, Oct. 16, 2026 — The Internal Revenue Service has already begun issuing refunds to more than 50,000 taxpayers who benefited from the adoption tax credit carryforward and expects the refund process for most eligible taxpayers to be complete by the end of the year.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
