@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:34:55Z",
+  "generated_at": "2026-10-16T21:03:29Z",
   "segments": [
     {
       "id": "global-tax",
@@ -566,6 +566,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-123, Oct. 16, 2026 — The Internal Revenue Service has already begun issuing refunds to more than 50,000 taxpayers who benefited from the adoption tax credit carryforward and expects the refund process for most eligible taxpayers to be complete by the end of the year.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "733da6540a5576",
+      "title": "IRS announces 2026 Tax Professional Awareness Week, highlighting resources to help tax professionals prepare for the 2027 filing season",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-announces-2026-tax-professional-awareness-week-highlighting-resources-to-help-tax-professionals-prepare-for-the-2027-filing-season",
+      "published": "2026-10-16",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-124, Oct. 16, 2026 — The Internal Revenue Service today announced Tax Professional Awareness Week, taking place the week of October 19th, which will feature webinars and practical tools to help tax professionals prepare for the upcoming filing season, support accurate tax return preparations and protect taxpayer information.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
