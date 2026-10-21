@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:08:09Z",
+  "generated_at": "2026-10-21T21:38:34Z",
   "segments": [
     {
       "id": "global-tax",
@@ -622,6 +622,20 @@
       "topic": "DISC",
       "importance": 66,
       "summary": "On 9 October, EU Finance Ministers agreed on the latest revision of the EU list of non-cooperative tax jurisdictions. The update reflects both progress made by jurisdictions through cooperation with the EU and remaining concerns in the areas of tax transparency and fair taxation.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "29da6eff1c2171",
+      "title": "Temporary reporting and recordkeeping relief for certain fuel uses",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/temporary-reporting-and-recordkeeping-relief-for-certain-fuel-uses",
+      "published": "2026-10-21",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "DISC",
+      "importance": 62,
+      "summary": "IR-2026-125, Oct. 21, 2026 — The Internal Revenue Service today announced temporary administrative relief from reporting and recordkeeping requirements relating to taxes imposed by section 4041(a) of the Internal Revenue Code.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
