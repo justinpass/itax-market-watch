@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:43:55Z",
+  "generated_at": "2026-10-23T11:33:05Z",
   "segments": [
     {
       "id": "global-tax",
@@ -636,6 +636,20 @@
       "topic": "DISC",
       "importance": 62,
       "summary": "IR-2026-125, Oct. 21, 2026 — The Internal Revenue Service today announced temporary administrative relief from reporting and recordkeeping requirements relating to taxes imposed by section 4041(a) of the Internal Revenue Code.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "ae2c067ad30924",
+      "title": "Self Assessment deadline incoming – 100 days to go",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/news/self-assessment-deadline-incoming-100-days-to-go",
+      "published": "2026-10-23",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 62,
+      "summary": "Self Assessment customers have just 100 days to file their tax return for the 2025 to 2026 tax year and pay any tax owed.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
