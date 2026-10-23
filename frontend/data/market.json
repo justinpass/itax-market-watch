@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:33:05Z",
+  "generated_at": "2026-10-23T17:02:59Z",
   "segments": [
     {
       "id": "global-tax",
@@ -566,6 +566,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-127, Oct. 22, 2026 — The Internal Revenue Service today reminded taxpayers to protect their information from tax-related identity theft by safeguarding their IRS online-account credentials and obtaining an Identity Protection PIN.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "aee89190560f7e",
+      "title": "IRS reminder: Year-round tax planning can make filing easier",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-reminder-year-round-tax-planning-can-make-filing-easier",
+      "published": "2026-10-23",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-128, Oct. 23, 2026 — The Internal Revenue Service today encouraged taxpayers to take simple steps now to make filing easier and avoid tax-time surprises next year.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
