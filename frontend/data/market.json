@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:40:59Z",
+  "generated_at": "2026-10-26T12:53:58Z",
   "segments": [
     {
       "id": "global-tax",
@@ -414,6 +414,20 @@
       "summary": "IR-2026-126, Oct. 22, 2026 — The Department of the Treasury and the Internal Revenue Service today issued two revenue procedures that update the correction program for employee retirement plans and create one for Individual Retirement Accounts.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "fd45793a9a907a",
+      "title": "Deployment of NCTS Phase 6 – Next step in the modernization of customs and transit procedures",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/deployment-ncts-phase-6-next-step-modernization-customs-and-transit-procedures-2026-10-26_en",
+      "published": "2026-10-26",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 78,
+      "summary": "The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
       "id": "e9b954c1205282",
