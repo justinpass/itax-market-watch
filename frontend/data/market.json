@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:54:44Z",
+  "generated_at": "2026-10-29T22:42:18Z",
   "segments": [
     {
       "id": "global-tax",
@@ -580,6 +580,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-128, Oct. 23, 2026 — The Internal Revenue Service today encouraged taxpayers to take simple steps now to make filing easier and avoid tax-time surprises next year.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "aef800ce512a23",
+      "title": "IRS achieved historic performance in 2026 for American taxpayers, efficiently delivering new tax benefits to working families",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-achieved-historic-performance-in-2026-for-american-taxpayers-efficiently-delivering-new-tax-benefits-to-working-families",
+      "published": "2026-10-29",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-129, Oct.29, 2026 — The IRS announced record setting performance on behalf of American taxpayers in fiscal year (FY) 2026. Following the passage of President Donald J. Trump’s landmark Working Families Tax Cuts, the IRS collected the highest tax revenue in history and delivered record high refunds, to more people, and faster than ever before.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
