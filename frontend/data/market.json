@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T12:47:49Z",
+  "generated_at": "2026-10-30T22:15:02Z",
   "segments": [
     {
       "id": "global-tax",
@@ -678,6 +678,20 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "Short and easy-to-follow tax information to share with taxpayers, businesses and tax professionals on digital platforms.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "c6dc7d524956f3",
+      "title": "Edition 8: Making Tax Digital for Income Tax — software developer newsletter",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/publications/edition-8-making-tax-digital-for-income-tax-software-developer-newsletter",
+      "published": "2026-10-30",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "HMRC's newsletter for software developers for Making Tax Digital for Income Tax.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
