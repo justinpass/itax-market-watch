@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:56:19Z",
+  "generated_at": "2026-11-02T15:42:16Z",
   "segments": [
     {
       "id": "global-tax",
@@ -594,6 +594,20 @@
       "topic": "DISC",
       "importance": 62,
       "summary": "IR-2026-125, Oct. 21, 2026 — The Internal Revenue Service today announced temporary administrative relief from reporting and recordkeeping requirements relating to taxes imposed by section 4041(a) of the Internal Revenue Code.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "00e36162b26551",
+      "title": "Five things you need to know ahead of Making Tax Digital for Income Tax quarterly deadline",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/news/five-things-you-need-to-know-ahead-of-making-tax-digital-for-income-tax-quarterly-deadline",
+      "published": "2026-11-02",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 62,
+      "summary": "HMRC busts five common Making Tax Digital myths ahead of the 7 November quarterly update deadline.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
