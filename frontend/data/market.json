@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:05:50Z",
+  "generated_at": "2026-11-03T23:17:05Z",
   "segments": [
     {
       "id": "global-tax",
@@ -540,6 +540,20 @@
       "summary": "IR-2026-129, Oct.29, 2026 — The IRS announced record setting performance on behalf of American taxpayers in fiscal year (FY) 2026. Following the passage of President Donald J. Trump’s landmark Working Families Tax Cuts, the IRS collected the highest tax revenue in history and delivered record high refunds, to more people, and faster than ever before.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "d9c3f1c221d227",
+      "title": "Product identifiers for e-commerce imports mandatory from 1 November 2026",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en",
+      "published": "2026-11-03",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 70,
+      "summary": "From 1 November 2026, product identifiers (PIDs) must be declared to customs for goods sold in distance sales to buyers in the EU, notably consumers.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
       "id": "906fd62af4f890",
