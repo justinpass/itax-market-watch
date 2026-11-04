@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:26:08Z",
+  "generated_at": "2026-11-04T23:37:45Z",
   "segments": [
     {
       "id": "global-tax",
@@ -524,6 +524,34 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-129, Oct.29, 2026 — The IRS announced record setting performance on behalf of American taxpayers in fiscal year (FY) 2026. Following the passage of President Donald J. Trump’s landmark Working Families Tax Cuts, the IRS collected the highest tax revenue in history and delivered record high refunds, to more people, and faster than ever before.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "9bab0714f984bc",
+      "title": "IRS Nationwide Tax Forum Online offers new 2026 seminars",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-nationwide-tax-forum-online-offers-new-2026-seminars",
+      "published": "2026-11-04",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-131, Nov. 4, 2026 — The Internal Revenue Service today announced the launch of the 2026 IRS Nationwide Tax Forum Online, providing tax professionals access to more than a dozen seminars recorded at this year's IRS Nationwide Tax Forum and the opportunity to earn continuing education credits.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "c84aa81aea1144",
+      "title": "IRS reminder: Tax professionals should renew their PTINs for 2027",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-reminder-tax-professionals-should-renew-their-ptins-for-2027",
+      "published": "2026-11-04",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-130, Nov. 4, 2026 — The Internal Revenue Service today reminded paid tax return preparers to renew their preparer tax identification number for 2027.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
