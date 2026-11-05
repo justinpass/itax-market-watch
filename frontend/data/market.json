@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:38:54Z",
+  "generated_at": "2026-11-05T19:53:59Z",
   "segments": [
     {
       "id": "global-tax",
@@ -386,6 +386,20 @@
       "summary": "The rollout of Phase 6 of the New Computerised Transit System (NCTS), now in use across the 27 EU Member States and the countries of the Common Transit Convention, marks a major step forward in the digital modernisation of customs and transit procedures across 41 participating countries.",
       "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
       "client_question": "What could change the transaction economics or implementation plan?"
+    },
+    {
+      "id": "9dfa8f290e34fb",
+      "title": "Treasury, IRS Announce Opportunity Zones Designations for Over 6,500 Communities Across America",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-announce-opportunity-zones-designations-for-over-6500-communities-across-america",
+      "published": "2026-11-05",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 78,
+      "summary": "IR-2026-132, Nov. 5, 2026 — The U.S. Department of the Treasury and the Internal Revenue Service (IRS) today announced the Qualified Opportunity Zone (QOZ) designations for all 50 states, territories, and the District of Columbia.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
       "id": "e9b954c1205282",
