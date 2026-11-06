@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T06:34:47Z",
+  "generated_at": "2026-11-06T19:20:03Z",
   "segments": [
     {
       "id": "global-tax",
@@ -636,6 +636,20 @@
       "topic": "DISC",
       "importance": 62,
       "summary": "IR-2026-125, Oct. 21, 2026 — The Internal Revenue Service today announced temporary administrative relief from reporting and recordkeeping requirements relating to taxes imposed by section 4041(a) of the Internal Revenue Code.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "08144429f30e9f",
+      "title": "New guidance on electricity imports under Centralised Clearance for Import (CCI)",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en",
+      "published": "2026-11-06",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DISC",
+      "importance": 62,
+      "summary": "New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
