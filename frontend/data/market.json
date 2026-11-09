@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:17:14Z",
+  "generated_at": "2026-11-09T16:27:38Z",
   "segments": [
     {
       "id": "global-tax",
@@ -400,6 +400,20 @@
       "summary": "IR-2026-132, Nov. 5, 2026 — The U.S. Department of the Treasury and the Internal Revenue Service (IRS) today announced the Qualified Opportunity Zone (QOZ) designations for all 50 states, territories, and the District of Columbia.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "5b38c15ef2aa38",
+      "title": "Commission welcomes Council agreement on removing the €150 threshold for the VAT Import One-Stop Shop",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/commission-welcomes-council-agreement-removing-eur150-threshold-vat-import-one-stop-shop-2026-11-09_en",
+      "published": "2026-11-09",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "VAT",
+      "importance": 78,
+      "summary": "The Commission welcomes today’s general approach reached by EU Member States in the Council on removing the €150 threshold for the VAT Import One-Stop Shop (IOSS).",
+      "business_impact": "Map affected transaction flows, invoicing logic, reporting fields and implementation dates.",
+      "client_question": "Which transaction flows, invoices or reporting systems need to change?"
     },
     {
       "id": "e9b954c1205282",
