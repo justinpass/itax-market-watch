@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:48:31Z",
+  "generated_at": "2026-11-10T23:15:12Z",
   "segments": [
     {
       "id": "global-tax",
@@ -594,6 +594,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-134, Nov. 6, 2026 — The IRS today announced that authorized tax professionals can now make certain payments on behalf of their business clients through Tax Pro Account.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "4908de8c7c4f65",
+      "title": "IRS reminder: Permanent charitable contribution deduction begins for returns filed next year for taxpayers who do not itemize",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-reminder-permanent-charitable-contribution-deduction-begins-for-returns-filed-next-year-for-taxpayers-who-do-not-itemize",
+      "published": "2026-11-10",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-135, Nov. 10, 2026 — The Internal Revenue Service today reminded individual taxpayers who do not itemize deductions that the Working Families Tax Cuts provides a permanent deduction for charitable contributions made in 2026.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
