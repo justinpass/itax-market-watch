@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T00:37:11Z",
+  "generated_at": "2026-11-12T15:06:09Z",
   "segments": [
     {
       "id": "global-tax",
@@ -411,9 +411,23 @@
       "jurisdiction": "European Union",
       "topic": "VAT",
       "importance": 78,
-      "summary": "The Commission welcomes today’s general approach reached by EU Member States in the Council on removing the €150 threshold for the VAT Import One-Stop Shop (IOSS).",
+      "summary": "Official-source update. Open the source for the full text.",
       "business_impact": "Map affected transaction flows, invoicing logic, reporting fields and implementation dates.",
       "client_question": "Which transaction flows, invoices or reporting systems need to change?"
+    },
+    {
+      "id": "96ad805f56a771",
+      "title": "EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en",
+      "published": "2026-11-12",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 78,
+      "summary": "EU and Armenia today signed two agreements between the EU and Armenia on Armenia’s participation in the EU’s Customs and Fiscalis programmes.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
       "id": "e9b954c1205282",
