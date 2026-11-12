@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:06:09Z",
+  "generated_at": "2026-11-12T23:34:00Z",
   "segments": [
     {
       "id": "global-tax",
@@ -411,7 +411,7 @@
       "jurisdiction": "European Union",
       "topic": "VAT",
       "importance": 78,
-      "summary": "Official-source update. Open the source for the full text.",
+      "summary": "The Commission welcomes today’s general approach reached by EU Member States in the Council on removing the €150 threshold for the VAT Import One-Stop Shop (IOSS).",
       "business_impact": "Map affected transaction flows, invoicing logic, reporting fields and implementation dates.",
       "client_question": "Which transaction flows, invoices or reporting systems need to change?"
     },
@@ -612,6 +612,20 @@
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
+      "id": "15eb4bae6b68df",
+      "title": "IRS shares Agency Financial Report for fiscal year 2026",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-shares-agency-financial-report-for-fiscal-year-2026",
+      "published": "2026-11-12",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-137, Nov. 12, 2026 — The IRS today announced the publication of its Agency Financial Report for Fiscal Year 2026, detailing the IRS’s sound financial position and its commitment to accountability and transparency to the American people.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
       "id": "d9c3f1c221d227",
       "title": "Product identifiers for e-commerce imports mandatory from 1 November 2026",
       "source": "European Commission Taxation and Customs",
@@ -706,6 +720,20 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "Short and easy-to-follow tax information to share with taxpayers, businesses and tax professionals on digital platforms.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "f8c69f97033853",
+      "title": "401(k) limit increases to $25,500 for 2027, IRA limit remains $7,500",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500",
+      "published": "2026-11-12",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "IR-2026-136, Nov. 12, 2026 — The Internal Revenue Service announced today that the amount individuals can contribute to their 401(k) plans in 2027 has increased to $25,500, up from $24,500 for 2026.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
