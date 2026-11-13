@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T06:36:06Z",
+  "generated_at": "2026-11-13T19:37:10Z",
   "segments": [
     {
       "id": "global-tax",
@@ -397,7 +397,7 @@
       "jurisdiction": "European Union",
       "topic": "DEAL",
       "importance": 78,
-      "summary": "EU and Armenia today signed two agreements between the EU and Armenia on Armenia’s participation in the EU’s Customs and Fiscalis programmes.",
+      "summary": "EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.",
       "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
       "client_question": "What could change the transaction economics or implementation plan?"
     },
@@ -580,6 +580,34 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-137, Nov. 12, 2026 — The IRS today announced the publication of its Agency Financial Report for Fiscal Year 2026, detailing the IRS’s sound financial position and its commitment to accountability and transparency to the American people.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "3601288089e820",
+      "title": "IRS issues frequently asked questions about the Low-income Communities Bonus Credit Amount Program",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-issues-frequently-asked-questions-about-the-low-income-communities-bonus-credit-amount-program",
+      "published": "2026-11-13",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-139, Nov. 13, 2026 — The Internal Revenue Service today issued frequently asked questions in Fact Sheet 2026-15 about the Low-income Communities Bonus Credit Amount Program.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "08a44976f6a1ab",
+      "title": "IRS appoints 10 new members to Electronic Tax Administration Advisory Committee",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-appoints-10-new-members-to-electronic-tax-administration-advisory-committee",
+      "published": "2026-11-13",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-138, Nov. 13, 2026 — The Internal Revenue Service today announced the appointment of 10 new members to the Electronic Tax Administration Advisory Committee (ETAAC).",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
