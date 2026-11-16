@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:20:25Z",
+  "generated_at": "2026-11-16T21:57:42Z",
   "segments": [
     {
       "id": "global-tax",
@@ -402,6 +402,20 @@
       "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
+      "id": "8a1d791cf4e6f8",
+      "title": "CBAM: Commission adopts rules on the recognition of carbon prices paid in non-EU countries",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/cbam-commission-adopts-rules-recognition-carbon-prices-paid-non-eu-countries-2026-11-16_en",
+      "published": "2026-11-16",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 78,
+      "summary": "Implementing Regulation published today specifies the rules",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
+    },
+    {
       "id": "e9b954c1205282",
       "title": "Guidance on low-value imports",
       "source": "European Commission Taxation and Customs",
@@ -594,6 +608,20 @@
       "topic": "US",
       "importance": 74,
       "summary": "IR-2026-138, Nov. 13, 2026 — The Internal Revenue Service today announced the appointment of 10 new members to the Electronic Tax Administration Advisory Committee (ETAAC).",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "0cf103668c7812",
+      "title": "IRS reminder: Take steps now to make tax filing in 2027 easier",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-reminder-take-steps-now-to-make-tax-filing-in-2027-easier",
+      "published": "2026-11-16",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-140, Nov. 16, 2026 — The IRS encourages taxpayers to begin preparing now for the 2027 filing season. Taxpayers can visit Get Ready to File Your Taxes to get filing tips and information about important updates.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
