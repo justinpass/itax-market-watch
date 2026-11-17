@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:49:34Z",
+  "generated_at": "2026-11-17T20:51:22Z",
   "segments": [
     {
       "id": "global-tax",
@@ -414,6 +414,20 @@
       "summary": "Implementing Regulation published today specifies the rules",
       "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
       "client_question": "What could change the transaction economics or implementation plan?"
+    },
+    {
+      "id": "a102943cca7fa7",
+      "title": "Treasury, IRS issue final rules to help hardworking Americans build a financially secure retirement",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/treasury-irs-issue-final-rules-to-help-hardworking-americans-build-a-financially-secure-retirement",
+      "published": "2026-11-17",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 78,
+      "summary": "IR-2026-141, Nov. 17, 2026 — The U.S. Department of the Treasury and the Internal Revenue Service (IRS) today issued final regulations to help more Americans save for retirement through their workplaces.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
       "id": "e9b954c1205282",
