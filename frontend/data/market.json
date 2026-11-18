@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:20:15Z",
+  "generated_at": "2026-11-18T20:27:01Z",
   "segments": [
     {
       "id": "global-tax",
@@ -346,6 +346,20 @@
   ],
   "updates": [
     {
+      "id": "d7aea4b424509d",
+      "title": "Extension of CBAM to Iceland and Norway",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/extension-cbam-iceland-and-norway-2026-11-18_en",
+      "published": "2026-11-18",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 82,
+      "summary": "CBAM will be extended to Norway and Iceland following the entry into force of the EEA Joint Committee Decision. As of 1 January 2027, CBAM will apply in Norway and Iceland to goods imported into their customs territories, in the same way that it applies to goods entering the EU customs territory.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
+    },
+    {
       "id": "9dfa8f290e34fb",
       "title": "Treasury, IRS announce Opportunity Zones designations for over 6,500 communities across America",
       "source": "IRS newsroom",
@@ -612,6 +626,34 @@
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
+      "id": "a56d6188941afa",
+      "title": "IRS announces 2027 Tax Counseling for the Elderly and Volunteer Income Tax Assistance program grants",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-announces-2027-tax-counseling-for-the-elderly-and-volunteer-income-tax-assistance-program-grants",
+      "published": "2026-11-18",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-143, Nov. 18, 2026 — The Internal Revenue Service today announced $58 million in grants to organizations providing free federal tax return preparation, including 49 Tax Counseling for the Elderly and 282 Volunteer Income Tax Assistance applicants.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "4c6ab16aa41c7a",
+      "title": "IRS Advisory Council issues annual public report",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/irs-advisory-council-issues-annual-public-report",
+      "published": "2026-11-18",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-142, Nov. 18, 2026 — The Internal Revenue Service Advisory Council today issued its annual public report on a range of new and continuing topics in tax administration related to IRS operations, taxpayer service, compliance, tax-exempt and government entities, and information reporting.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
       "id": "d9c3f1c221d227",
       "title": "Product identifiers for e-commerce imports mandatory from 1 November 2026",
       "source": "European Commission Taxation and Customs",
@@ -706,6 +748,20 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "IR-2026-136, Nov. 12, 2026 — The Internal Revenue Service announced today that the amount individuals can contribute to their 401(k) plans in 2027 has increased to $25,500, up from $24,500 for 2026.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "6e5203bb5744fd",
+      "title": "Tax adviser registration opens for payroll professionals",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/news/tax-adviser-registration-opens-for-payroll-professionals",
+      "published": "2026-11-18",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "Payroll professionals have until 17 February 2027 to register with HMRC under new mandatory requirements.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
