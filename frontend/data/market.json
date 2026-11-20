@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T07:06:49Z",
+  "generated_at": "2026-11-20T20:07:36Z",
   "segments": [
     {
       "id": "global-tax",
@@ -624,6 +624,34 @@
       "summary": "IR-2026-142, Nov. 18, 2026 — The Internal Revenue Service Advisory Council today issued its annual public report on a range of new and continuing topics in tax administration related to IRS operations, taxpayer service, compliance, tax-exempt and government entities, and information reporting.",
       "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "4d3404c7d22ca1",
+      "title": "EU Customs Authority holds first management board meeting in Lille",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/eu-customs-authority-holds-first-management-board-meeting-lille-2026-11-20_en",
+      "published": "2026-11-20",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "US",
+      "importance": 74,
+      "summary": "The European Union Customs Authority (EUCA) held its first management board meeting yesterday in Lille, marking a key milestone in the establishment of the new authority to support the EU's new and modernised Customs Union.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
+      "id": "7ba210f66ecd33",
+      "title": "EU and UK agree to link Emission Trading Systems (ETS)",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/eu-and-uk-agree-link-emission-trading-systems-ets-2026-11-20_en",
+      "published": "2026-11-20",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DEAL",
+      "importance": 70,
+      "summary": "The conclusion of negotiations for an agreement to link the EU’s and UK’s respective Emission Trading Systems (ETS) announced on 20 November at the EU-UK summit paves the ground for a possible future mutual exemption from the partners’ respective Carbon Border Adjustment Mechanisms.",
+      "business_impact": "Assess transaction economics, customs or restructuring consequences and implementation dependencies.",
+      "client_question": "What could change the transaction economics or implementation plan?"
     },
     {
       "id": "906fd62af4f890",
