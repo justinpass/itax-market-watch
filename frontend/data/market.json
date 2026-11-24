@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T09:48:22Z",
+  "generated_at": "2026-11-24T22:21:20Z",
   "segments": [
     {
       "id": "global-tax",
@@ -626,6 +626,20 @@
       "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
     },
     {
+      "id": "f2fe689136481a",
+      "title": "Interest rates increase for the first quarter of 2027",
+      "source": "IRS newsroom",
+      "url": "https://www.irs.gov/newsroom/interest-rates-increase-for-the-first-quarter-of-2027",
+      "published": "2026-11-24",
+      "date_basis": "retrieved",
+      "jurisdiction": "United States",
+      "topic": "US",
+      "importance": 74,
+      "summary": "IR-2026-144, Nov. 24, 2026 — The Internal Revenue Service today announced that interest rates will increase for the calendar quarter beginning January 1, 2027.",
+      "business_impact": "Identify US-linked entities and transactions that may need modelling, process or reporting changes.",
+      "client_question": "Which US-linked business flows need to be recalculated or re-documented?"
+    },
+    {
       "id": "7ba210f66ecd33",
       "title": "EU and UK agree to link Emission Trading Systems (ETS)",
       "source": "European Commission Taxation and Customs",
@@ -706,6 +720,34 @@
       "topic": "DISC",
       "importance": 58,
       "summary": "IR-2026-136, Nov. 12, 2026 — The Internal Revenue Service announced today that the amount individuals can contribute to their 401(k) plans in 2027 has increased to $25,500, up from $24,500 for 2026.",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "203a1eb297a802",
+      "title": "Tax code notices go online for millions",
+      "source": "HMRC news",
+      "url": "https://www.gov.uk/government/news/tax-code-notices-go-online-for-millions",
+      "published": "2026-11-24",
+      "date_basis": "published",
+      "jurisdiction": "United Kingdom",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "Customers encouraged to update email address to go paperless",
+      "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
+      "client_question": "What new reporting obligation or system control is required?"
+    },
+    {
+      "id": "abe1b069b22ffc",
+      "title": "Publication of the Mind the Gap Communication",
+      "source": "European Commission Taxation and Customs",
+      "url": "https://taxation-customs.ec.europa.eu/news/publication-mind-gap-communication-2026-11-24_en",
+      "published": "2026-11-24",
+      "date_basis": "retrieved",
+      "jurisdiction": "European Union",
+      "topic": "DISC",
+      "importance": 58,
+      "summary": "The European Commission published the 2026 edition of Mind the Gap. Its objective is to support Member States in boosting public finances through joint efforts to reduce tax gaps, improve compliance, and strengthen revenue collection.",
       "business_impact": "Identify new reporting fields, system changes, ownership and evidence needed for compliance.",
       "client_question": "What new reporting obligation or system control is required?"
     },
